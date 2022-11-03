@@ -9,3 +9,4 @@ Age,Salary,Gender,Country,Purchased
 25,32000,Female,France,Y
 ,35000,Male,Germany,N
 27,37000,Female,France,N
+27|37000|Female|France|N
